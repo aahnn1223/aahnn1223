@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![seungtae’s github stats](https://github-readme-stats.vercel.app/api?username=aahnn1223&show_icons=true&theme=merko)
 <!--
 **aahnn1223/aahnn1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
